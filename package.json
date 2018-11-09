@@ -1,0 +1,16 @@
+{
+  "name": "umi-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "TEST=1 umi test --coverage --no-cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "lodash-es": "^4.17.11",
+    "umi": "^2.2.6"
+  }
+}
